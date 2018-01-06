@@ -15,5 +15,5 @@
         android:divider="@null"
         android:scrollbarStyle="insideInset"
         android:scrollbarSize="4dp"
-      />
+        />
 </RelativeLayout>
